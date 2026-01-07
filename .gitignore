@@ -1,6 +1,4 @@
-__pycache__/
-.venv/
-venv/
-db/
-*.db
-.pyton-version
+.python-version
+pyproject.toml
+uv.lock
+main.py
