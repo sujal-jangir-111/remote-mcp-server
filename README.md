@@ -14,5 +14,6 @@ A FastMCP-based expense tracking server using SQLite and aiosqlite.
 - aiosqlite
 
 ## Run
+
 ```bash
 python server.py
