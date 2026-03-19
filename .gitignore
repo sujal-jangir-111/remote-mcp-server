@@ -1,4 +1,12 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Python version (optional)
 .python-version
-pyproject.toml
+
+# Lock file (optional, depends on workflow)
 uv.lock
-main.py
